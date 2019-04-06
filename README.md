@@ -7,4 +7,4 @@ State of Our Networks 2018 will be **July 13–18, 2018**. Looking to submit a s
 
 🗓 Submissions are open until May 7, 2018!
 
-![mesh-sync.jpeg]({{site.baseurl}}/mesh-sync.jpeg)
+![mesh-sync.jpeg](/mesh-sync.jpeg)
